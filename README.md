@@ -23,7 +23,7 @@ This project focuses on understanding **pick ticket activity**, identifying inef
 ```
 hospital-supply-chain-optimization/
 │
-├── 📊 WarehouseAssignmentLogging - Copy.xlsx
+├── 📊 hospital_supply_chain_raw_data.xlsx
 │   → Raw dataset containing supply pick activity across hospital departments
 │
 ├── 📈 Hospital-Supply-Chain-Pick-Ticket-Analysis.pptx
