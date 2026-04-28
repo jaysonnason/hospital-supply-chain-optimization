@@ -135,7 +135,7 @@ By combining **data analysis + predictive modeling**, this project demonstrates 
 
 ---
 
-## 👩‍💻 Author
+## 👨‍💻 Author
 
 **Jayson Nason**
 Computer Science Major | Finance Minor
